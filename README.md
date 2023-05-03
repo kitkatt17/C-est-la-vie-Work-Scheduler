@@ -48,7 +48,4 @@ The following screenshot demonstrates an example of the application functionalit
 
 [Deployed Link](https://kitkatt17.github.io/C-est-la-vie-Work-Scheduler/)
 
-<!-- I'm not sure why my deployed link isn't working so here's the link where you can actually use the application -->
-
-[Other Link if the Deployed Link doesn't work](file:///C:/Users/kates/Desktop/Homework/Module%205/C-est-la-vie-Work-Scheduler/Develop/index.html)
 
